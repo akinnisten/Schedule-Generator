@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "608053803585",
+    "project_id": "schedulegenerator-8c388",
+    "storage_bucket": "schedulegenerator-8c388.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608053803585:android:b63a6bab462836af6f64c0",
+        "android_client_info": {
+          "package_name": "com.example.schedulegenerator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8_H5pY6SfTzpRAi_KesieBpsd5iV5OGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
